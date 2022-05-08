@@ -1,4 +1,20 @@
-Hi 👋 My name is Rich =====================  Data Analyst & Data Scientist -----------------------------  I am an accomplished Data Analyst and Scientist with over 10 years of experience who uses advanced data methodologies to reach useful business insights. I am proficient in the all data science stages, including data preprocessing, statistical method application, predictive modeling, data visualisation and result communication. Career Highlights Efficiency Increase: Implemented Machine Learning model to predict contract register matching which enabled a 60% reduction in team resource. Data Input Automation: Implemented Excel to Browser automation for Data Entry team which reduced team resource by 25% and increased accuracy to 96% KPIs: Introduced data driven KPIs to warehouse systems which increased monitoring accuracy and product delivery by 30%  * 🌍  I'm based in Liverpool, UK * 🧠  I'm learning MongoDB & Wofram * 🤝  I'm open to collaborating on Machine Learning Projects, Artificial Intelligence
+<h2>Hi 👋 My name is Rich</h2> 
+<h3>Data Analyst & Data Scientist</h2>
+I am an accomplished Data Analyst and Scientist with over 10 years of experience in both the private and public sector who uses advanced data methodologies to reach useful business insights. I am proficient in the all data science stages, including data preprocessing, statistical method application, predictive modeling, data visualisation and result communication. 
+
+<h3>Career Highlights</h3>
+
+<b>Efficiency Increase:</b> Implemented Machine Learning model to predict contract register matching which enabled a 60% reduction in team resource. 
+
+<b>Data Input Automation: </b>  Implemented Excel to Browser automation for Data Entry team which reduced team resource by 25% and increased accuracy to 96%
+
+<b>KPIs:</b> Introduced data driven KPIs to warehouse systems which increased monitoring accuracy and product delivery by 30% 
+
+* 🌍  I'm based in Liverpool, UK 
+
+* 🧠  I'm learning MongoDB & Wofram 
+
+* 🤝  I'm open to collaborating on Machine Learning Projects, Artificial Intelligence
 
 <a href="https://www.twitter.com/Richdatasci" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Richdatasci?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
