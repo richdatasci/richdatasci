@@ -16,6 +16,8 @@ I am an accomplished Data Analyst and Scientist with over 10 years of experience
 
 * 🤝  I'm open to collaborating on Machine Learning Projects, Artificial Intelligence
 
+* 🤝  I'm currently a Machine Learning Task Lead for Omdena Philadelphia
+
 <a href="https://www.twitter.com/Richdatasci" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Richdatasci?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
