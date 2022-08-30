@@ -12,7 +12,7 @@ I am an accomplished Data Analyst and Scientist with over 10 years of experience
 
 * 🌍  I'm based in Liverpool, UK 
 
-* 🧠  I'm learning MongoDB & Wolfram 
+* 🧠  I'm learning Wolfram 
 
 * 🤝  I'm open to collaborating on Machine Learning Projects, Artificial Intelligence
 
