@@ -1,5 +1,5 @@
 <h2>Hi 👋 My name is Rich</h2> 
-<h3>Data Analyst & Data Scientist</h2>
+<h3>Data Scientist, AI Engineer & Data Analyst</h2>
 I am an accomplished Data Analyst and Scientist with over 10 years of experience in both the private and public sector who uses advanced data methodologies to reach useful business insights. I am proficient in the all data science stages, including data preprocessing, statistical method application, predictive modeling, data visualisation and result communication. 
 
 <h3>Career Highlights</h3>
@@ -13,8 +13,6 @@ I am an accomplished Data Analyst and Scientist with over 10 years of experience
 * 🌍  I'm based in Liverpool, UK 
 
 * 🧠  I'm learning Wolfram 
-
-* 🤝  I'm open to collaborating on Machine Learning Projects, Artificial Intelligence
 
 * 🤝  I'm currently Liverpool Chapter Lead on OmdenaAI
 
