@@ -1,6 +1,6 @@
 <h2>Hi 👋 My name is Rich</h2> 
-<h3>Data Scientist, AI Engineer & Data Analyst</h2>
-I am an accomplished Data Analyst and Scientist with over 10 years of experience in both the private and public sector who uses advanced data methodologies to reach useful business insights. I am proficient in the all data science stages, including data preprocessing, statistical method application, predictive modeling, data visualisation and result communication. 
+<h3>Data Scientist & ML Engineer</h2>
+I am an accomplished Data Scientist & ML Engineer with over 10 years of experience in both the private and public sector who uses advanced data methodologies to reach useful business insights. I am proficient in the all data science stages, including data preprocessing, statistical method application, predictive modeling and data visualisation.
 
 <h3>Career Highlights</h3>
 
