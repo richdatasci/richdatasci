@@ -1,6 +1,8 @@
 <h2>Hi 👋 My name is Rich</h2> 
 <h3>Data Scientist & ML Engineer</h2>
-I am an accomplished Data Scientist & ML Engineer with over 10 years of experience in both the private and public sector who uses advanced data methodologies to reach useful business insights. I am proficient in the all data science stages, including data preprocessing, statistical method application, predictive modeling and data visualisation.
+As a Data Scientist, I excel at extracting insights from complex datasets through statistical analysis and machine learning. With proficiency in programming languages such as Python and SQL, I can manipulate and analyze data, develop predictive models, and communicate results effectively. As an ML Engineer, I specialize in designing, developing, and deploying machine learning models, utilizing deep learning algorithms, neural networks, and natural language processing. My expertise in distributed computing frameworks and cloud computing platforms enables me to scale models to handle large datasets and deploy them to production environments. My expertise in data science and machine learning allows me to deliver cutting-edge solutions to real-world problems.
+
+I am currently the Omdena Liverpool Chapter lead; I am passionate about making a real-world difference for the better, I believe Machine Learning and Artificial Intelligence will continue to shape our world for the good and because of this I want to help and support people enter the world of Machine Learning and allow them to make a positive impact.
 
 <h3>Career Highlights</h3>
 
@@ -13,8 +15,6 @@ I am an accomplished Data Scientist & ML Engineer with over 10 years of experien
 * 🌍  I'm based in Liverpool, UK 
 
 * 🧠  I'm learning Wolfram 
-
-* 🤝  I'm currently Liverpool Chapter Lead on OmdenaAI
 
 <a href="https://www.twitter.com/Richdatasci" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Richdatasci?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
