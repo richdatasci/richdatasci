@@ -1,6 +1,7 @@
 <h2>Hi 👋 My name is Rich</h2> 
 <h3>Data Scientist & ML Engineer</h2>
 As a Data Scientist, I excel at extracting insights from complex datasets through statistical analysis and machine learning. With proficiency in programming languages such as Python and SQL, I can manipulate and analyze data, develop predictive models, and communicate results effectively. As an ML Engineer, I specialize in designing, developing, and deploying machine learning models, utilizing deep learning algorithms, neural networks, and natural language processing. My expertise in distributed computing frameworks and cloud computing platforms enables me to scale models to handle large datasets and deploy them to production environments. My expertise in data science and machine learning allows me to deliver cutting-edge solutions to real-world problems.
+<br><br>
 
 I am currently the Omdena Liverpool Chapter lead; I am passionate about making a real-world difference for the better, I believe Machine Learning and Artificial Intelligence will continue to shape our world for the good and because of this I want to help and support people enter the world of Machine Learning and allow them to make a positive impact.
 
